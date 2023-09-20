@@ -1,2 +1,4 @@
-# php-learning-doc
-php &amp; laravel learning documentation
+# PHP Learning Documentation
+
+### Why PHP? The benefits of using PHP
+
