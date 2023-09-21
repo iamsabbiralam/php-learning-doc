@@ -1,6 +1,5 @@
 <?php
 
-
 $y = 2500;
 
 $x = 'sabbir alam';
@@ -12,6 +11,5 @@ $x = null ;
 echo $y . "<br>";
 
 var_dump($y);
-
 
 ?>
